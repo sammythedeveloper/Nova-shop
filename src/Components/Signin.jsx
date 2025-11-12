@@ -57,7 +57,7 @@ function Login() {
       {/* LEFT SECTION */}
       <div className="flex-1 flex flex-col justify-center items-center bg-gradient-to-br from-red-500 to-red-700 text-white p-10">
         <h1 className="text-5xl sm:text-7xl font-extrabold mb-6 tracking-tight">
-          Nova Shop
+        Vionex Shop
         </h1>
         <p className="text-lg sm:text-xl text-center max-w-md opacity-90">
           Discover amazing deals, sleek designs, and shop with confidence.

@@ -125,7 +125,7 @@ const HomePage = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 1.5 }}
         >
-          Nova Shop is your ultimate online destination for cutting-edge tech
+          Vionex Shop is your ultimate online destination for cutting-edge tech
           products and accessories. From the latest smartphones and laptops to
           gaming gear, smart watches, headphones, and lifestyle gadgets, we
           bring you quality products with unbeatable deals. Our mission is to

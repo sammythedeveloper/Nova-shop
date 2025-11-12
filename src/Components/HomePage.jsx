@@ -117,7 +117,7 @@ const HomePage = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2 }}
         >
-          About Nova Shop
+          About Vionex Shop
         </motion.h2>
         <motion.p
           className="text-black text-2xl font-extralight leading-relaxed max-w-3xl mx-auto #About "

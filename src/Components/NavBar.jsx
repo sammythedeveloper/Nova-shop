@@ -22,7 +22,7 @@ const NavBar = () => {
       <div className="hidden md:flex items-center justify-between max-w-[1600px] mx-auto px-6 py-4 min-h-[120px]  ">
         {/* Logo */}
         <Link to="/" className="flex flex-col">
-          <span className="text-3xl font-normal text-black">Vionex Shop</span>
+          <span className="text-3xl font-normal text-black">Nova Shop</span>
           <span className="text-sm font-light text-black hover:text-gray-400  ">
             Funky Tech Accessories
           </span>

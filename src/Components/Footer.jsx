@@ -52,7 +52,7 @@ function Footer() {
 
       {/* Bottom */}
       <div className="border-t border-gray-300 mt-8 py-4 text-center text-sm text-gray-500">
-        &copy; 2025 Vionex Shop. Designed with ❤️ by{" "}
+        &copy; 2025 Nova Shop. Designed with ❤️ by{" "}
         <a
           href="https://github.com/yourgithub"
           target="_blank"

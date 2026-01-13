@@ -1,4 +1,4 @@
-# 🛒 Vionex Shop
+# 🛒 Nova Shop
 
 **Vionex Shop** is a modern, responsive **e-commerce web application** built with **React** and **Firebase**, designed to deliver a seamless and secure online shopping experience.  
 

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vionex-shop/static/css/main.acf78c8f.css",
-    "main.js": "/Vionex-shop/static/js/main.af3ea8fb.js",
+    "main.js": "/Vionex-shop/static/js/main.ffcd8809.js",
     "static/media/0.jpg": "/Vionex-shop/static/media/0.967fd956b58358809664.jpg",
     "static/media/8.jpg": "/Vionex-shop/static/media/8.862ef7cd7a3e4356dcc9.jpg",
     "static/media/3.jpg": "/Vionex-shop/static/media/3.eb5ef1db9d70cc3a77b5.jpg",
@@ -35,10 +35,10 @@
     "static/media/apple.png": "/Vionex-shop/static/media/apple.6c89baf7459e27fb12d2.png",
     "index.html": "/Vionex-shop/index.html",
     "main.acf78c8f.css.map": "/Vionex-shop/static/css/main.acf78c8f.css.map",
-    "main.af3ea8fb.js.map": "/Vionex-shop/static/js/main.af3ea8fb.js.map"
+    "main.ffcd8809.js.map": "/Vionex-shop/static/js/main.ffcd8809.js.map"
   },
   "entrypoints": [
     "static/css/main.acf78c8f.css",
-    "static/js/main.af3ea8fb.js"
+    "static/js/main.ffcd8809.js"
   ]
 }
